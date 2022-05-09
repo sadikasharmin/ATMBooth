@@ -13,7 +13,7 @@ int useFrom(int a)
     case 2:
         cout << "Enter your Mobile account number = ";
         cin >> mobNum;
-        break;
+        break; 
 
     default:
         break;
